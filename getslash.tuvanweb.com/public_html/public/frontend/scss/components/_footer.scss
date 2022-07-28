@@ -1,0 +1,204 @@
+.c-footer {
+    background-color: $c-dark-01;
+    color: $c-white;
+    padding-top: 80px;
+    @media (max-width: 1023px) {
+        padding-top: 72px;
+        position: relative;
+    }
+    @media (max-width: 767px) {
+        padding-top: 48px;
+        position: relative;
+    }
+    .bct {
+        @media (max-width: 1023px) {
+            display: block !important;
+            position: absolute;
+            top: 72px;
+            z-index: 2;
+            right: 40px;
+        }
+        @media (max-width: 767px) {
+            display: none !important;
+        }
+    }
+
+    .slogan {
+        @include no-spacing;
+        margin-top: 16px;
+        font-size: 24px;
+        line-height: 32px;
+        @media (max-width: 767px) {
+            font-size: 20px;
+        }
+    }
+
+    .description {
+        @include no-spacing;
+        margin-top: 16px;
+        font-size: 16px;
+        @media (max-width: 767px) {
+            font-size: 14px;
+        }
+    }
+
+    .social {
+        margin-top: 40px;
+
+        a {
+            margin-right: 16px;
+        }
+    }
+
+    .title-nav {
+        @include no-spacing;
+        color: $c-yellow;
+        font-weight: 700;
+        font-size: 16px;
+        @media (max-width: 767px) {
+            line-height: inherit;
+            position: relative;
+            &.active {
+                img {
+                    transform: rotate(180deg) !important;
+                }
+            }
+        }
+        img {
+            @media (max-width: 767px) {
+                display: block !important;
+                position: absolute;
+                top: 0;
+                right: 0;
+                transition: .3s all !important;
+            }
+        }
+    }
+
+    .nav {
+        margin-top: 16px;
+        display: block;
+        @media (max-width: 767px) {
+            display: none;
+        }
+
+        .nav-item {
+            margin-bottom: 12px;
+        }
+
+        .nav-link {
+            padding: 0;
+            color: $c-white;
+            font-size: 16px;
+            transition: $transitions-default;
+
+            &:hover {
+                color: $c-yellow;
+            }
+        }
+    }
+
+    .images {
+        text-align: right;
+
+        img {
+            margin-bottom: 68px;
+
+            &:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .copyright {
+        margin-top: 80px;
+        background-color: #000B35;
+        padding: 16px 0;
+        @media (max-width: 1023px) {
+            margin-top: 72px;
+        }
+        @media (max-width: 767px) {
+            margin-top: 48px;
+        }
+
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            @media (max-width: 1023px) {
+                display: block;
+            }
+        }
+
+        .content {
+            font-size: 12px;
+            line-height: 16px;
+
+            a {
+                color: $c-white;
+                text-decoration: none;
+                transition: $transitions-default;
+                font-weight: 600;
+
+                &:hover {
+                    color: $c-yellow;
+                }
+            }
+        }
+
+        .nav-copyright {
+            display: flex;
+            margin-left: -12px;
+            margin-right: -12px;
+            margin-top: 0;
+            @media (max-width: 1023px) {
+                margin: 12px 0 0 0;
+            }
+
+            .nav-item {
+                font-size: 12px;
+                line-height: 16px;
+                margin: 0 12px;
+                color: $c-white;
+                text-decoration: none;
+                transition: $transitions-default;
+                @media (max-width: 1023px) {
+                    margin-left: 0;
+                    margin-right: 24px;
+                    &:last-child {
+                        margin-right: 0;
+                    }
+                }
+
+                &:hover {
+                    color: $c-yellow;
+                }
+            }
+        }
+    }
+}
+
+.bot-social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+    @media (max-width: 1023px) {
+        display: none;
+    }
+}
+.social-top {
+    @media (max-width: 1023px) {
+        display: block !important;
+        margin-bottom: 72px;
+    }
+    @media (max-width: 767px) {
+        display: none !important;
+    }
+}
+
+.link-fter {
+    .col-md-3 {
+        margin-top: 32px;
+    }
+}

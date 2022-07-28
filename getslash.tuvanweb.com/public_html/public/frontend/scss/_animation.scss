@@ -1,0 +1,64 @@
+[data-animation] {
+    opacity: 0 !important;
+    transition: all .3s;
+    position: relative;
+}
+
+.animate__animated {
+    opacity: 1 !important;
+}
+
+.animate__delay-5 {
+    animation-delay: .5s;
+}
+
+.animate__delay-10 {
+    animation-delay: 1s;
+}
+
+.animate__delay-15 {
+    animation-delay: 1.5s;
+}
+
+// @keyframes xxx {
+//     from {
+//         transform: translate(0, 0);
+//     }
+
+//     50% {
+//         transform: translate(-5%, -5%);
+//     }
+
+//     to {
+//         transform: translate(0, 0);
+//     }
+// }
+
+// animetion scroll
+// $(document).ready(function () {
+//     const Anh_animation = document.querySelectorAll('[data-animation]');
+//     if (Anh_animation) {
+//       for (let i = 0; i < Anh_animation.length; i++) {
+//         const animation = Anh_animation[i];
+//         const styleAnimation = animation.getAttribute('data-animation');
+//         let offsetTopAnimation = $(animation).last().offset().top;
+  
+//         $(window).scroll(function () {
+//           let windowScrollTop = $(this).scrollTop();
+//           if (windowScrollTop > (offsetTopAnimation - $(window).height())) {
+//             $(animation).addClass(styleAnimation);
+//           }
+//         });
+//       }
+//     }
+  
+//     const Anh_loadAnimation = document.querySelectorAll('[data-load-animation]');
+  
+//     if (Anh_loadAnimation) {
+//       for (let i = 0; i < Anh_loadAnimation.length; i++) {
+//         const animation = Anh_loadAnimation[i];
+//         const styleAnimation = animation.getAttribute('data-load-animation');
+//         $(animation).addClass(styleAnimation);
+//       }
+//     }
+//   });

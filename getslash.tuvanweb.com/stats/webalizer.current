@@ -1,0 +1,1393 @@
+# Webalizer V2.23-08 Incremental Data - 07/25/2022 23:37:28
+2022 7 25 23 37 28
+39027 36132 126 309 66 53 2238768921 2802 156 0
+15 2597 3818 1 25
+567 524 43922339 14 86 7
+17655 16161 966569576 11 1264 23
+6429 6059 472541269 14 432 8
+3614 3369 158457822 11 334 12
+108 44 2165379 12 24 8
+2 1 73625 2 2 2
+97 85 4523824 5 17 5
+0 0 0 0 0 0
+12 8 350424 6 12 6
+80 78 4551015 4 5 4
+12 5 198809 5 10 3
+568 510 39243997 6 73 6
+247 190 10154534 4 116 4
+9 5 76323 3 9 3
+0 0 0 0 0 0
+14 7 287312 8 14 8
+0 0 0 0 0 0
+362 347 21782590 10 32 12
+1 1 74798 1 1 1
+515 463 29743732 5 32 3
+836 803 45214799 18 36 16
+154 133 5021941 1 5 1
+20 12 182589 2 20 4
+162 153 8756752 3 3 1
+7563 7174 424875472 15 275 19
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 7 264343 6
+2 1 90896 1
+65 60 4501102 6
+1718 1524 37998474 171
+3187 2964 152226954 168
+126 111 3634924 20
+17 9 192642 17
+0 0 0 0
+794 722 43997080 61
+1066 883 68525174 155
+6855 6311 437987268 586
+6817 6357 432921837 529
+2558 2347 135243176 258
+802 756 23618226 87
+794 701 40371016 32
+1178 1104 61824373 65
+4550 4249 290566106 232
+2724 2560 170922447 155
+1005 947 56706548 46
+1010 932 54583391 46
+84 80 4550304 8
+505 482 34746711 24
+397 365 28489425 39
+2763 2660 154806504 90
+0
+0
+0
+36132
+0
+0
+0
+0
+0
+21
+0
+61
+138
+0
+486
+0
+0
+0
+0
+0
+1
+2126
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+61
+0
+0
+0
+0
+0
+# -urls- 
+/public/frontend/vendor/fancyapps/jquery.fancybox.min.css
+0 575 0 1844107 0 0
+/slash/slash/uploads/images/des-2.png
+0 35 0 15008503 0 0
+/press/modern-interior-design-5
+0 2 0 16025 0 0
+/public/frontend/images/hero-2.jpg
+0 177 0 167141650 0 0
+/slash/slash/uploads/images/sddefault (2).jpg
+0 74 0 3720068 0 0
+/slash/slash/uploads/files/cate-1.png
+0 221 0 11164698 0 0
+/public/backend/plugins/ckeditor/plugins/relFollow/plugin.js
+0 22 0 6975 0 0
+/public/frontend/images/sub.svg
+0 22 0 5589 0 0
+/backend/menu/edit-item/22
+0 1 0 805 0 0
+/public/frontend/vendor/slick/slick.min.js
+0 580 0 6132734 0 0
+/slash/slash/uploads/images/new-1.png
+0 37 0 3264665 0 0
+/public/frontend/main.js
+0 734 0 2396894 0 0
+/slash/slash/uploads/images/banner-kit.png
+0 1 0 817125 0 0
+/slash/slash/uploads/images/step-3.png
+0 52 0 3565743 0 0
+/career
+0 95 0 1155627 2 2
+/slash/slash/uploads/files/2022-07-04-62c277c828c13.pdf
+0 2 0 194603 0 0
+/slash/slash/uploads/files/2022-07-04-62c278e8664d9.pdf
+0 2 0 194594 0 0
+/slash/slash/uploads/files/sol-1.png
+0 68 0 26765250 0 0
+/public/backend/plugins/datatables/jquery.dataTables.min.js
+0 37 0 1013334 0 0
+/faq
+0 30 0 208164 0 0
+/slash/slash/uploads/images/d-1.png
+0 270 0 825974 0 0
+/public/frontend/images/faq-mobile.jpg
+0 5 0 185814 0 0
+/backend/posts/3/edit
+0 1 0 6063 0 0
+/slash/slash/uploads/images/bn-shop-phone.png
+0 229 0 91928787 0 0
+/public/backend/plugins/ckeditor/skins/moono-lisa/editor.css
+0 17 0 105063 0 0
+/slash/slash/uploads/images/pay-3.png
+0 52 0 1676525 0 0
+/slash/slash/uploads/files/hd-3.png
+0 97 0 18739965 0 0
+/slash/slash/uploads/files/hd-4.png
+0 97 0 19100134 0 0
+/slash/slash/uploads/images/pay-2.png
+0 52 0 1753588 0 0
+/public/backend/plugins/ckfinder/skins/neko/file-icons/128/unknown.png
+0 4 0 27940 0 0
+/public/frontend/images/kep-white.png
+0 10 0 11133 0 0
+/slash/slash/uploads/images/d-3.png
+0 1 0 3966 0 0
+/public/frontend/scss/fonts/SVN-Gilroy.woff2
+0 568 0 16919357 0 0
+/public/frontend/images/icon-title.png
+0 36 0 17150 0 0
+/public/backend/plugins/ckeditor/styles.js
+0 22 0 40126 0 0
+/slash/slash/uploads/files/sol-2.png
+0 67 0 30595464 0 0
+/public/backend/plugins/taginput/bootstrap-tagsinput.min.js
+0 37 0 122008 0 0
+/public/frontend/scss/fonts/SVN-GilroyHeavy.woff2
+0 3 0 93872 0 0
+/public/frontend/images/bn-number.png
+0 24 0 551663 0 0
+/public/frontend/images/line-career.png
+0 36 0 381884 0 0
+/public/frontend/scss/components/_fqa.scss
+0 226 0 673298 0 0
+/slash/slash/uploads/images/credit-card.svg
+0 17 0 6216 0 0
+/slash/slash/uploads/images/Logo.svg
+0 591 0 768755 0 0
+/public/frontend/images/banner-faq.svg
+0 21 0 83019 0 0
+/public/frontend/images/sc-2.png
+0 2 0 1444 0 0
+/backend/menu/edit/2
+0 6 0 35591 0 0
+/for-shop
+0 108 0 892892 3 3
+/backend/options/smtp
+0 30 0 147489 6 0
+/public/backend/plugins/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css
+0 17 0 4698 0 0
+/contact-popup
+0 5 0 4894 0 0
+/slash/slash/uploads/images/why.png
+0 68 0 22026076 0 0
+/backend/posttype/11/edit
+0 4 0 21409 0 0
+/news/mua-sam-tra-sau-cung-slash-nhu-the-nao
+0 1 0 7556 0 0
+/slash/slash/uploads/images/btn-02.png
+0 176 0 443408 0 0
+/public/backend/plugins/ckeditor/skins/moono-lisa/icons.png
+0 4 0 50415 0 0
+/public/frontend/images/sc-1.svg
+0 1 0 418 0 0
+/slash/slash/uploads/images/pay-4.png
+0 52 0 1707254 0 0
+/public/frontend/images/mer-form.png
+0 62 0 109563588 0 0
+/slash/slash/uploads/images/Logo(1).svg
+0 605 0 791612 0 0
+/public/frontend/scss/fonts/SVN-GilroySemiBold.woff2
+0 567 0 17583949 0 0
+/public/backend/plugins/datepicker/daterangepicker.css
+0 29 0 49386 0 0
+/about
+0 24 0 162212 0 0
+/public/frontend/scss/fonts/SVN-GilroyBlack.woff2
+0 2 0 60985 0 0
+/slash/slash/uploads/images/app-2.png
+0 4 0 10515 0 0
+/slash/slash/uploads/images/icon-about-1.png
+0 9 0 48360 0 0
+/backend/categories-post/2/edit
+0 2 0 10020 0 1
+/public/backend/plugins/ckfinder/libs/jquery.js
+0 10 0 297883 0 0
+/slash/slash/uploads/images/Group(1).svg
+0 83 0 149975 0 0
+/public/frontend/images/ar-blue.svg
+0 585 0 150858 0 0
+/backend/styles
+0 2 0 7083 0 0
+/slash/slash/uploads/images/step-1.png
+0 52 0 3795287 0 0
+/faq-merchant
+0 64 0 425333 1 1
+/slash/slash/uploads/images/app-1.png
+0 4 0 17060 0 0
+/slash/slash/uploads/images/s4.png
+0 15 0 5724858 0 0
+/public/frontend/images/bn-shop.png
+0 215 0 16636922 0 0
+/slash/slash/uploads/images/place-3.png
+0 12 0 11988 0 0
+/slash/slash/uploads/files/hot-2.png
+0 207 0 16955733 0 0
+/public/backend/cus/jquery.nestable.js
+0 37 0 148289 0 0
+/public/backend/plugins/datatables/dataTables.bootstrap.min.js
+0 36 0 42092 0 0
+/toturial
+0 520 0 4468832 1 1
+/press
+0 14 0 107930 0 1
+/slash/slash/uploads/images/s3.png
+0 15 0 4709495 0 0
+/public/frontend/images/sc-1.png
+0 2 0 1573 0 0
+/public/frontend/images/contact-us.svg
+0 22 0 5434 0 0
+/slash/slash/uploads/images/part-3.png
+0 213 0 7070565 0 0
+/slash/slash/uploads/images/banner-video.png
+0 57 0 120910161 0 0
+/public/backend/plugins/ckeditor/plugins/scayt/dialogs/dialog.css
+0 17 0 4964 0 0
+/public/backend/plugins/ckeditor/plugins/tableselection/styles/tableselection.css
+0 29 0 14993 0 0
+/public/backend/plugins/ckeditor/contents.css
+0 23 0 29348 0 0
+/public/frontend/scss/fonts/SVN-GilroyMedium.woff2
+0 565 0 17863122 0 0
+/slash/slash/uploads/images/shopping-cart.svg
+0 17 0 8506 0 0
+/backend/posts/7/edit
+0 1 0 6028 0 0
+/slash/slash/uploads/images/video.png
+0 69 0 7137823 0 0
+/public/backend/plugins/datepicker/moment.min.js
+0 36 0 610812 0 0
+/slash/slash/uploads/files/QR.svg
+0 11 0 269170 0 0
+/public/frontend/plugin/jquery.toast.min.css
+0 575 0 1470118 0 0
+/public/frontend/scss/components/_shop.scss
+0 97 0 408077 0 0
+/slash/slash/uploads/images/Frame(1).svg
+0 83 0 138592 0 0
+/public/backend/plugins/ckeditor/lang/en.js
+0 9 0 61596 0 0
+/backend/recruitments
+0 3 0 10787 0 0
+/public/frontend/images/qr-1-1.png
+0 372 0 962655 0 0
+/backend/posttype/10/edit
+0 6 0 31609 0 0
+/public/frontend/images/sc-3.svg
+0 1 0 507 0 0
+/slash/slash/uploads/images/banner.png
+0 141 0 178034298 0 0
+/slash/slash/uploads/images/des-1.png
+0 35 0 22155097 0 0
+/public/frontend/images/e-2.png
+0 174 0 1016034 0 0
+/public/backend/plugins/ckfinder/config.js
+0 10 0 3721 0 0
+/slash/slash/uploads/files/part-2.png
+0 34 0 2614717 0 0
+/public/backend/plugins/ckfinder/core/connector/php/connector.php
+0 309 0 2595868 0 0
+/public/frontend/images/line-shop.png
+0 51 0 537840 0 0
+/slash/slash/uploads/images/new-2.png
+0 7 0 932201 0 0
+/slash/slash/uploads/images/Career(2).svg
+0 40 0 112392 0 0
+/slash/slash/uploads/images/Frame(3).svg
+0 83 0 140229 0 0
+/public/frontend/images/bn-home-mb.jpg
+0 164 0 5269005 0 0
+/backend/menu
+0 11 0 51321 0 0
+/slash/slash/uploads/files/p-3.png
+0 100 0 8448073 0 0
+/slash/slash/uploads/images/pay-1.png
+0 52 0 2133345 0 0
+/slash/slash/uploads/images/avr-mer.jpg
+0 67 0 35533868 0 0
+/slash/slash/uploads/images/status.svg
+0 295 0 178001 0 0
+/public/frontend/scss/fonts/SVN-GilroyItalic.woff2
+0 108 0 3557853 0 0
+/public/frontend/images/arrow-right.png
+0 19 0 7942 0 0
+/slash/slash/uploads/files/p-4.png
+0 100 0 8720062 0 0
+/public/frontend/scss/fonts/SVN-GilroyMediumItalic.woff2
+0 35 0 1190562 0 0
+/slash/slash/uploads/images/Facebook - Original.svg
+0 592 0 275436 0 0
+/slash/slash/uploads/images/part-2.png
+0 214 0 20214040 0 0
+/public/frontend/images/e-1.png
+0 176 0 7847017 0 0
+/slash/slash/uploads/files/app-1.png
+0 478 0 2538496 0 0
+/public/backend/plugins/ckeditor/plugins/relFollow/icons/relFollow.png
+0 5 0 10363 0 0
+/backend/menu/edit/6
+0 1 0 5942 0 1
+/public/frontend/images/play-small.svg
+0 168 0 63905 0 0
+/backend/menu/edit-item/19
+0 3 0 2461 0 0
+/slash/slash/uploads/images/d-2.png
+0 1 0 13463 0 0
+/public/backend/bootstrap/js/bootstrap.min.js
+0 37 0 369028 0 0
+/public/frontend/images/qr-shop.svg
+0 35 0 853881 0 0
+/slash/slash/uploads/images/footer-03.png
+0 15 0 142684 0 0
+/slash/slash/uploads/images/place-1.png
+0 12 0 9393 0 0
+/public/frontend/vendor/fancyapps/jquery.fancybox.min.js
+0 581 0 12914675 0 0
+/backend/get-layout
+0 1 0 1113 0 0
+/backend/posttype/6/edit
+0 1 0 5316 0 0
+/slash/slash/uploads/files/Slash.png
+0 4 0 560401 0 0
+/slash/slash/uploads/images/s-2.png
+0 313 0 31664476 0 0
+/public/backend/plugins/ckfinder/skins/neko/file-icons/128/pdf.png
+0 6 0 25086 0 0
+/slash/slash/uploads/images/sddefault (3).webp
+0 170 0 4849901 0 0
+/slash/slash/uploads/images/sddefault (1).webp
+0 170 0 3202680 0 0
+/slash/slash/uploads/images/icon-about-3.png
+0 9 0 44433 0 0
+/slash/slash/uploads/images/btn-01.png
+0 176 0 501017 0 0
+/public/frontend/images/background_qr.svg
+0 15 0 5635 0 0
+/public/frontend/images/sc-3.png
+0 2 0 1137 0 0
+/slash/slash/uploads/files/cate-3.png
+0 220 0 11817209 0 0
+/backend/options/general
+0 29 0 241733 6 2
+/public/backend/dist/js/jquery.toast.min.js
+0 37 0 68645 0 0
+/slash/slash/uploads/images/mer-3.png
+0 12 0 1756773 0 0
+/public/frontend/images/vi.png
+0 459 0 378327 0 0
+/slash/slash/uploads/images/Instagram - Original.svg
+0 592 0 674044 0 0
+/backend/posttype/8/edit
+0 2 0 10541 0 0
+/public/frontend/vendor/bootstrap-5.1.0-dist/popper.min.js
+0 579 0 3999511 0 0
+/public/frontend/images/bn-shop-mb.png
+0 215 0 11232635 0 0
+/public/frontend/images/bn-home-mb.png
+0 25 0 19647578 0 0
+/public/backend/plugins/ckeditor/plugins/relUnfollow/icons/relUnfollow.png
+0 5 0 11300 0 0
+/backend/posttype/9/edit
+0 2 0 10483 0 0
+/slash/slash/uploads/images/bn-about-mb.png
+0 9 0 1184580 0 0
+/slash/slash/uploads/files/p-
+0 100 0 10913990 0 2
+/public/frontend/scss/style.css
+0 756 0 9474524 0 0
+/public/backend/plugins/ckeditor/skins/moono-lisa/icons_hidpi.png
+0 1 0 40630 0 0
+/public/frontend/images/close.svg
+0 590 0 193405 0 0
+/public/backend/plugins/ckfinder/skins/neko/icons.css
+0 5 0 84100 0 0
+/slash/slash/uploads/images/tutorial-mb.png
+0 141 0 163233319 0 0
+/login
+0 39 0 103841 6 5
+/slash/slash/uploads/images/avata.png
+0 175 0 1050332 0 0
+/public/backend/plugins/iconpicker/fontawesome-iconpicker.min.js
+0 37 0 919565 0 0
+/shop
+0 215 0 1382614 3 2
+/public/backend/plugins/taginput/bootstrap-tagsinput.css
+0 29 0 16461 0 0
+/slash/slash/uploads/images/settings.svg
+0 17 0 19217 0 0
+/public/frontend/images/banner-press.png
+0 6 0 830961 0 0
+/slash/slash/uploads/images/bct.png
+0 465 0 3735026 0 0
+/backend/posttype/7/edit
+0 2 0 10753 0 0
+/backend/posttype/18/edit
+0 2 0 10553 0 0
+/public/frontend/images/footer-03.png
+0 458 0 4621918 0 0
+/public/backend/plugins/ckfinder/skins/core/ckfinder.css
+0 5 0 42222 0 0
+/slash/slash/uploads/images/des-3.png
+0 35 0 21053865 0 0
+/public/backend/plugins/ckfinder/libs/jquery.mobile.js
+0 10 0 560213 0 0
+/backend/pages/build
+0 50 0 328393 0 0
+/public/frontend/scss/fonts/SVN-GilroyHeavyItalic.woff2
+0 339 0 11435195 0 0
+/public/frontend/images/qq-1.png
+0 375 0 40046591 0 0
+/public/backend/plugins/ckfinder/libs/jquery.mobile.structure.css
+0 5 0 51733 0 0
+/public/backend/plugins/ckeditor/ckeditor.js
+0 37 0 7756440 0 0
+/backend/posttype/21/edit
+0 2 0 10606 0 0
+/slash/slash/uploads/files/Video.png
+0 77 0 10795341 0 0
+/public/backend/plugins/ckfinder/skins/neko/file-icons/128/msword.png
+0 6 0 24604 0 0
+/slash/slash/uploads/images/tichhop.png
+0 68 0 1261669 0 0
+/slash/slash/uploads/files/i-part-3.png
+0 259 0 1736515 0 0
+/slash/slash/uploads/images/avr-form.png
+0 35 0 15649385 0 0
+/public/frontend/images/hero.png
+0 173 0 102341491 0 0
+/slash/slash/uploads/files/p-2.png
+0 100 0 9075753 0 0
+/contact
+0 27 0 247589 1 1
+/backend/users
+0 2 0 9400 0 0
+/backend/contact
+0 8 0 25529 0 0
+/public/backend/plugins/ckfinder/skins/neko/file-icons/128/image.png
+0 5 0 12123 0 0
+/backend/posts
+0 10 0 36875 0 0
+/slash/slash/uploads/files/hd.png
+0 97 0 19795309 0 0
+/slash/slash/uploads/images/h-03.png
+0 212 0 9864911 0 0
+/slash/slash/uploads/images/step-2.png
+0 52 0 5218163 0 0
+/slash/slash/uploads/files/hot-1.png
+0 208 0 18523989 0 0
+/backend/recruitments/1/edit
+0 1 0 6399 0 0
+/slash/slash/uploads/images/s-3.png
+0 313 0 40425126 0 0
+/slash/slash/uploads/files/QR(1).svg
+0 431 0 10539923 0 0
+/backend/home
+0 28 0 129037 2 1
+/slash/slash/uploads/images/Frame(2).svg
+0 83 0 365531 0 0
+/public/frontend/images/bn-number-mobile.png
+0 10 0 118113 0 0
+/slash/slash/uploads/images/p-2.png
+0 69 0 477917 0 0
+/public/backend/plugins/ckeditor/plugins/copyformatting/styles/copyformatting.css
+0 29 0 20793 0 0
+/slash/slash/uploads/files/part-3.png
+0 34 0 915606 0 0
+/public/backend/plugins/ckfinder/skins/neko/ckfinder.css
+0 5 0 42990 0 0
+/press/modern-interior-design
+0 7 0 75406 4 0
+/slash/slash/uploads/images/package.svg
+0 17 0 8460 0 0
+/backend/posttype
+0 100 0 328176 1 0
+/public/frontend/scss/fonts/SVN-GilroyBold.woff2
+0 568 0 17554041 0 0
+/backend/pages
+0 28 0 151456 1 0
+/backend/posttype/17/edit
+0 4 0 21506 0 0
+/public/backend/img/placeholder.png
+0 15 0 37399 0 0
+/slash/slash/uploads/images/new-hot-2.png
+0 36 0 3534231 0 0
+/slash/slash/uploads/images/sddefault (1).jpg
+0 143 0 7120938 0 0
+/slash/slash/uploads/images/s2.png
+0 15 0 4801388 0 0
+/public/frontend/images/arrow-left.png
+0 216 0 88485 0 0
+/slash/slash/uploads/images/icon-about-2.png
+0 9 0 59168 0 0
+/slash/slash/uploads/files/cate-2.png
+0 220 0 20001940 0 0
+/public/frontend/scss/main.css.map
+0 651 0 1260140 0 0
+/slash/uploads/files/2022-07-04-62c2768a35da2.pdf
+0 2 0 194594 0 0
+/public/frontend/images/banner-news.png
+0 36 0 3152458 0 0
+/public/frontend/plugin/jquery.toast.min.js
+0 579 0 1079694 0 0
+/
+0 645 0 7992416 114 40
+/public/frontend/vendor/jquery-3.3.1.min.js
+0 582 0 17795796 0 0
+/slash/slash/uploads/images/LinkedIn - Original.svg
+0 592 0 510184 0 0
+/public/frontend/images/e-3.png
+0 173 0 1479143 0 0
+/public/frontend/images/t-place.svg
+0 13 0 3054 0 0
+/public/backend/plugins/ckeditor/config.js
+0 22 0 23319 0 0
+/slash/slash/uploads/images/mer-2.png
+0 12 0 1208690 0 0
+/public/backend/plugins/ckeditor/lang/vi.js
+0 13 0 106862 0 0
+/slash/slash/uploads/images/s-1.png
+0 313 0 44043824 0 0
+/public/frontend/scss/fonts/SVN-GilroyBoldItalic.woff2
+0 1 0 33827 0 0
+/public/backend/dist/css/jquery.toast.min.css
+0 29 0 73782 0 0
+/public/frontend/vendor/slick/slick.css
+0 576 0 376548 0 0
+/backend/menu/edit/1
+0 3 0 18014 0 0
+/slash/slash/uploads/images/step-5.png
+0 52 0 3604481 0 0
+/public/frontend/images/banner-kit.png
+0 5 0 4080327 0 0
+/slash/slash/uploads/files/hd-5.png
+0 97 0 18643617 0 0
+/public/backend/plugins/datatables/dataTables.bootstrap.css
+0 29 0 58693 0 0
+/public/frontend/scss/style.css.map
+0 642 0 1873384 0 0
+/slash/slash/uploads/images/method.png
+0 67 0 35790447 0 0
+/slash/slash/uploads/images/sddefault.webp
+0 168 0 1708473 0 0
+/slash/slash/uploads/images/sddefault (2).webp
+0 170 0 5722515 0 0
+/public/frontend/images/sc-2.svg
+0 1 0 774 0 0
+/slash/slash/uploads/images/Career.svg
+0 40 0 17429 0 0
+/slash/slash/uploads/images/part-1.png
+0 53 0 4538172 0 0
+/public/frontend/scss/main.css
+0 616 0 3639986 0 0
+/public/backend/plugins/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css
+0 17 0 6188 0 0
+/slash/slash/uploads/images/banner-about.png
+0 9 0 1647771 0 0
+/slash/slash/uploads/images/bn-career.png
+0 35 0 14589270 0 0
+/public/backend/cus/myscript.js
+0 39 0 166985 0 0
+/slash/slash/uploads/images/place-2.png
+0 12 0 12660 0 0
+/public/backend/plugins/ckeditor/plugins/relUnfollow/plugin.js
+0 22 0 6966 0 0
+/public/backend/plugins/ckfinder/ckfinder.js
+0 37 0 8011437 0 0
+/public/backend/plugins/fastclick/fastclick.js
+0 37 0 286878 0 0
+/slash/slash/uploads/images/Career(1).svg
+0 40 0 117337 0 0
+/public/frontend/images/merchant.png
+0 36 0 5675204 0 0
+/slash/slash/uploads/images/popup-head.png
+0 474 0 56168587 0 0
+/public/frontend/scss/fonts/SVN-GilroyThin.woff2
+0 3 0 90627 0 0
+/public/frontend/images/sc-4.svg
+0 1 0 514 0 0
+/public/frontend/images/bn-kit-mb.png
+0 3 0 1938322 0 0
+/slash/slash/uploads/images/h-02.png
+0 212 0 8258439 0 0
+/slash/slash/uploads/files/hd-2.png
+0 97 0 34067413 0 0
+/backend/posttype/22/edit
+0 8 0 42239 0 1
+/public/frontend/scss/fonts/SVN-GilroyLight.woff2
+0 161 0 4881144 0 0
+/slash/slash/uploads/files/app-2.png
+0 480 0 2081000 0 0
+/slash/slash/uploads/images/qr.svg
+0 182 0 23017735 0 0
+/home-merchant
+0 160 0 1376660 3 5
+/public/frontend/images/search_icon_1.svg
+0 23 0 6825 0 0
+/robots.txt
+0 15 0 15833 0 0
+/backend/categories-post
+0 4 0 21740 0 0
+/slash/slash/uploads/images/Career(3).svg
+0 40 0 115977 0 0
+/slash/slash/uploads/images/mer-1.png
+0 12 0 1504940 0 0
+/public/frontend/images/plus.svg
+0 16 0 4382 0 0
+/public/backend/cus/mystyle.css
+0 28 0 98309 0 0
+/slash/slash/uploads/images/new-hot-1.png
+0 38 0 11567013 0 0
+/public/frontend/images/kep.svg
+0 168 0 48739 0 0
+/slash/slash/uploads/images/sddefault.jpg
+0 143 0 7081578 0 0
+/backend/posttype/26/edit
+0 2 0 10726 0 0
+/slash/slash/uploads/images/s1.png
+0 15 0 4650039 0 0
+/slash/slash/uploads/images/image (1).svg
+0 23 0 7653 0 0
+/public/frontend/images/bn-home-ipad.jpg
+0 139 0 32400078 0 0
+/public/backend/plugins/ckfinder/skins/neko/skin.js
+0 10 0 7130 0 0
+/news
+0 91 0 663563 1 0
+/public/backend/plugins/iconpicker/fontawesome-iconpicker.min.css
+0 28 0 39232 0 0
+/slash/slash/uploads/images/step-4.png
+0 52 0 3659107 0 0
+/public/frontend/vendor/bootstrap-5.1.0-dist/bootstrap.min.css
+0 576 0 13903498 0 0
+/slash/slash/uploads/files/i-part-2.png
+0 259 0 1143024 0 0
+/public/frontend/scss/fonts/SVN-GilroyThinItalic.woff2
+0 1 0 32242 0 0
+/public/frontend/images/logo-kit.svg
+0 6 0 7422 0 0
+/public/frontend/images/arr-choose.svg
+0 13 0 3280 0 0
+/public/frontend/images/qq-2.png
+0 377 0 34910668 0 0
+/public/frontend/images/hero-1.png
+0 173 0 603689 0 0
+/backend/styles/7/edit
+0 1 0 6484 0 0
+/backend/posttype/27/edit
+0 2 0 10808 0 0
+/public/frontend/images/sc-4.png
+0 2 0 1302 0 0
+/public/backend/plugins/datepicker/daterangepicker.js
+0 37 0 466758 0 0
+/public/frontend/images/e-4.png
+0 144 0 2254223 0 0
+/backend/posttype/create
+0 11 0 58201 0 0
+/public/backend/plugins/ckfinder/lang/vi.json
+0 5 0 19426 0 0
+/slash/slash/uploads/images/about.png
+0 9 0 4028391 0 0
+# End Of Table - urls
+# -sites- (monthly)
+173.252.79.118
+0 1 0 35382 0 0
+-
+173.252.127.14
+0 1 0 15864 0 0
+-
+220.125.69.47
+0 1 1 14974 1 1658143399
+/
+27.76.187.187
+0 9448 8768 626849957 7 1656782529
+/home-merchant
+171.245.32.148
+0 276 247 9132899 1 1658312752
+/
+69.171.251.11
+0 1 1 6060 0 0
+-
+139.99.122.87
+0 2 2 25006 2 1656763254
+/shop
+173.252.83.7
+0 1 0 35382 0 0
+-
+116.111.43.28
+0 5 3 56816 1 1656965627
+/contact
+8.39.127.97
+0 230 219 17828393 1 1656883686
+/shop
+66.220.149.23
+0 1 1 14984 1 1658403767
+/
+116.104.62.115
+0 255 248 9488958 2 1656948478
+/news
+14.161.34.107
+0 134 133 8550692 1 1658785758
+/
+173.252.95.22
+0 1 0 15956 0 0
+-
+171.242.16.146
+0 3653 3397 186326921 3 1656941173
+/backend/options/general
+58.186.165.33
+0 4696 4461 259913402 4 1658791631
+/
+198.235.24.130
+0 1 1 72956 1 1657412377
+/
+149.154.161.200
+0 1 1 10015 1 1658406581
+/
+101.99.12.138
+0 68 67 4289307 1 1658398840
+/
+139.99.122.1
+0 3 2 21004 2 1656940889
+/contact
+173.252.79.5
+0 4 3 692493 0 0
+-
+198.235.24.148
+0 1 1 75032 1 1658139699
+/
+8.39.127.95
+0 633 546 27055308 3 1658765539
+/
+205.210.31.140
+0 1 0 435 1 1657114594
+/
+205.210.31.8
+0 1 1 74800 1 1657999436
+/
+173.252.111.118
+0 1 0 35382 0 0
+-
+126.169.110.22
+0 1 0 468 1 1656858601
+/
+18.206.55.48
+0 64 24 367425 10 1658600866
+/
+31.13.127.15
+0 1 1 6060 0 0
+-
+54.227.32.154
+0 18 18 263821 10 1658600885
+/
+65.154.226.167
+0 204 201 12851797 1 1658157564
+/
+173.252.79.119
+0 1 0 25669 0 0
+-
+173.252.83.19
+0 1 0 35470 0 0
+-
+69.171.251.9
+0 1 1 14986 1 1658398825
+/
+167.71.79.130
+0 2 0 10333 1 1657688515
+/
+198.235.24.143
+0 1 1 73190 1 1657141341
+/
+173.252.79.116
+0 2 1 121112 0 0
+-
+69.63.184.4
+0 2 0 19076 0 0
+-
+49.213.78.31
+0 30 25 1016582 4 1658410740
+/
+198.235.24.13
+0 2 1 73639 1 1657518506
+/
+116.96.45.141
+0 513 506 32326741 6 1658792248
+/
+15.235.162.70
+0 1 1 14971 1 1658408717
+/
+198.235.24.11
+0 2 1 75473 1 1658132435
+/
+205.210.31.154
+0 1 1 74796 1 1657652725
+/
+115.72.73.28
+0 7 4 57443 1 1658403834
+/
+173.252.83.116
+0 1 0 35382 0 0
+-
+173.252.79.6
+0 1 1 14180 1 1657012589
+/
+173.252.79.7
+0 1 1 120272 0 0
+-
+205.210.31.152
+0 1 1 73196 1 1657334526
+/
+1.53.91.181
+0 311 300 25249614 4 1658785681
+/
+113.160.5.74
+0 2000 1919 115935397 5 1658769137
+/
+138.197.72.233
+0 1 1 72633 1 1657585225
+/
+171.241.28.40
+0 77 76 4404664 1 1657485724
+/
+173.252.107.119
+0 1 1 6060 0 0
+-
+205.210.31.29
+0 1 1 73196 1 1657608659
+/
+205.210.31.18
+0 1 1 74800 1 1658015101
+/
+205.210.31.2
+0 2 1 75231 1 1658114902
+/
+113.161.80.86
+0 68 67 4278343 1 1658764641
+/
+173.252.83.21
+0 1 0 35382 0 0
+-
+173.252.95.3
+0 1 0 15864 0 0
+-
+1.53.14.131
+0 1 1 10077 1 1658765400
+/
+167.94.138.47
+0 3 2 29055 1 1657153782
+/
+205.210.31.151
+0 2 2 145920 2 1657427266
+/
+69.171.251.22
+0 1 1 14992 1 1658398827
+/
+58.143.6.40
+0 1 1 14965 1 1658124957
+/
+173.252.127.120
+0 1 1 2565 0 0
+-
+173.252.79.3
+0 1 0 25669 0 0
+-
+173.252.79.11
+0 3 3 61602 1 1657012585
+/press/modern-interior-design
+173.252.95.11
+0 1 0 15864 0 0
+-
+173.252.83.15
+0 1 0 35382 0 0
+-
+173.252.79.13
+0 2 2 24504 1 1657012588
+/
+205.210.31.11
+0 1 0 435 1 1657423521
+/
+42.117.10.7
+0 35 33 838418 0 0
+-
+167.99.62.104
+0 1 1 74716 1 1657681099
+/
+173.252.127.27
+0 1 0 33536 0 0
+-
+69.171.251.24
+0 1 1 2565 0 0
+-
+139.99.62.149
+0 1 1 13510 1 1656760631
+/
+173.252.127.29
+0 1 0 33536 0 0
+-
+69.171.251.23
+0 1 1 6060 0 0
+-
+173.252.95.1
+0 1 1 2565 0 0
+-
+117.4.252.45
+0 243 189 10069042 1 1657709683
+/backend/menu/edit-item/22
+205.210.31.156
+0 1 1 75032 1 1657933467
+/
+173.252.79.1
+0 1 1 2565 0 0
+-
+108.174.2.215
+0 7 7 445209 1 1657012605
+/
+173.252.79.14
+0 1 0 25669 0 0
+-
+173.252.79.120
+0 1 0 15864 0 0
+-
+65.154.226.168
+0 68 67 4284279 1 1658156155
+/
+173.252.79.112
+0 2 2 26381 1 1657012588
+/
+205.210.31.134
+0 1 1 73188 1 1657368016
+/
+198.235.24.132
+0 1 1 72966 1 1657587518
+/
+101.68.211.2
+0 4 3 97216 1 1656673487
+/
+52.143.95.27
+0 3 3 392952 0 0
+-
+8.21.11.168
+0 1933 1631 61315020 7 1657012562
+/press/modern-interior-design
+126.207.38.110
+0 1 1 14155 1 1656858618
+/
+198.235.24.8
+0 2 0 886 2 1658010261
+/
+59.10.232.165
+0 1 0 460 1 1657985049
+/
+173.252.79.21
+0 2 0 49400 0 0
+-
+173.252.83.16
+0 1 1 2565 0 0
+-
+1.52.126.23
+0 12194 11321 701945157 8 1656848033
+/toturial
+69.63.184.2
+0 1 0 9538 0 0
+-
+123.16.13.202
+0 279 266 13662737 1 1658400578
+/
+121.185.22.178
+0 1 1 14169 1 1656858597
+/
+173.252.83.18
+0 1 0 35382 0 0
+-
+198.235.24.136
+0 1 1 74798 1 1658218283
+/
+118.70.74.159
+0 452 400 34025011 1 1657647091
+/backend/pages/build
+198.235.24.3
+0 1 1 72962 1 1657401351
+/
+173.252.79.10
+0 1 0 35382 0 0
+-
+171.229.162.33
+0 181 170 12690798 1 1656751430
+/faq
+173.252.111.116
+0 1 0 35382 0 0
+-
+173.252.127.2
+0 1 0 33536 0 0
+-
+27.74.251.29
+0 283 263 11459770 3 1657624067
+/backend/options/general
+149.154.161.235
+0 3 0 5683 1 1656751405
+-
+66.220.149.19
+0 1 0 33536 0 0
+-
+205.210.31.14
+0 1 1 72958 1 1657016725
+/
+205.169.39.12
+0 68 67 4283113 1 1658156246
+/
+123.25.30.191
+0 61 44 3522829 1 1658317000
+/
+104.28.222.74
+0 4 4 39058 2 1658791958
+/
+79.100.29.239
+0 1 1 14972 1 1657777112
+/
+8.39.127.59
+0 86 85 4704189 1 1658398817
+/
+8.21.11.93
+0 88 80 4440121 3 1657213482
+/
+42.116.30.180
+0 168 160 16301898 2 1656673119
+/toturial
+205.210.31.144
+0 1 0 443 1 1658013065
+/
+173.252.79.113
+0 2 2 41456 1 1657012585
+/press/modern-interior-design
+139.99.8.123
+0 2 1 8342 1 1656930640
+/login
+104.28.254.74
+0 68 67 4291736 1 1658783490
+/
+173.252.79.24
+0 1 0 33536 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+173.252.83.7
+0 1 0 35382 0 0
+-
+14.161.34.107
+0 134 133 8550692 1 1658785758
+/
+58.186.165.33
+0 4536 4309 251194597 3 1658791631
+/
+8.39.127.95
+0 479 413 22033367 2 1658765539
+/
+173.252.83.19
+0 1 0 35470 0 0
+-
+116.96.45.141
+0 202 201 14561490 2 1658792248
+/
+1.53.91.181
+0 66 60 3836534 1 1658785681
+/
+113.160.5.74
+0 2000 1919 115935397 5 1658769137
+/
+113.161.80.86
+0 68 67 4278343 1 1658764641
+/
+1.53.14.131
+0 1 1 10077 1 1658765400
+/
+173.252.83.15
+0 1 0 35382 0 0
+-
+173.252.95.1
+0 1 1 2565 0 0
+-
+173.252.83.18
+0 1 0 35382 0 0
+-
+104.28.222.74
+0 4 4 39058 2 1658791958
+/
+104.28.254.74
+0 68 67 4291736 1 1658783490
+/
+# End Of Table - sites (daily)
+# -referrers- 
+https://getslash.tuvanweb.com/backend/recruitments/1/edit
+0 1
+https://getslash.tuvanweb.com/backend/posttype/21/edit
+0 13
+https://getslash.tuvanweb.com/backend/styles
+0 3
+https://getslash.tuvanweb.com/backend/posttype/18/edit
+0 4
+https://getslash.tuvanweb.com/backend/posttype/create
+0 104
+https://getslash.tuvanweb.com/about
+0 127
+https://getslash.tuvanweb.com/news/mua-sam-tra-sau-cung-slash-nhu-the-nao
+0 5
+https://getslash.tuvanweb.com
+0 51
+https://getslash.tuvanweb.com/backend/posttype/17/edit
+0 6
+https://getslash.tuvanweb.com/home-merchant
+0 2078
+https://getslash.tuvanweb.com/backend/posttype/22/edit
+0 41
+https://www.getslash.tuvanweb.com/
+0 59
+https://getslash.tuvanweb.com/backend/menu/edit/1
+0 4
+https://getslash.tuvanweb.com/backend/options/smtp
+0 184
+https://getslash.tuvanweb.com/shopping-tra-sau-cung-slash-tra-sau-cho-cuoc-song-them
+0 1
+https://getslash.tuvanweb.com/backend/posttype/6/edit
+0 1
+https://getslash.tuvanweb.com/contact
+0 341
+https://getslash.tuvanweb.com/backend/categories-post/2/edit
+0 3
+https://getslash.tuvanweb.com/backend/options/general
+0 466
+https://getslash.tuvanweb.com/backend/categories-post
+0 9
+https://getslash.tuvanweb.com/for-shop
+0 1279
+https://getslash.tuvanweb.com/backend/posts/7/edit
+0 1
+https://getslash.tuvanweb.com/press
+0 76
+https://getslash.tuvanweb.com/shopping-tra-sau-cung-slash-tra-sau-cho-cuoc-song-them1
+0 1
+https://getslash.tuvanweb.com/admin
+0 11
+- (Direct Request)
+0 4143
+https://getslash.tuvanweb.com/backend/styles/7/edit
+0 7
+https://getslash.tuvanweb.com/press/modern-interior-design-5
+0 6
+https://getslash.tuvanweb.com/backend/menu/edit/2
+0 12
+https://getslash.tuvanweb.com/faq-merchant
+0 310
+https://getslash.tuvanweb.com/press/modern-interior-design
+0 9
+https://getslash.tuvanweb.com/backend/home
+0 309
+https://getslash.tuvanweb.com/backend/posttype/26/edit
+0 4
+https://getslash.tuvanweb.com/public/frontend/scss/main.css
+0 3162
+https://www.getslash.tuvanweb.com/public/frontend/scss/main.css
+0 7
+https://getslash.tuvanweb.com/backend/posttype/11/edit
+0 14
+https://getslash.tuvanweb.com/toturial
+0 7872
+https://getslash.tuvanweb.com/backend/posttype/27/edit
+0 6
+https://getslash.tuvanweb.com/public/frontend/scss/style.css
+0 187
+https://getslash.tuvanweb.com/login
+0 111
+https://getslash.tuvanweb.com/backend/menu
+0 24
+https://getslash.tuvanweb.com/backend/options/send-mail-test
+0 1
+https://getslash.tuvanweb.com/backend/posts/3/edit
+0 2
+https://getslash.tuvanweb.com/backend/contact
+0 8
+https://getslash.tuvanweb.com/backend/posttype/7/edit
+0 2
+https://getslash.tuvanweb.com/backend/pages/build
+0 445
+https://getslash.tuvanweb.com/career
+0 1313
+https://getslash.tuvanweb.com/news
+0 983
+https://getslash.tuvanweb.com/backend/posttype
+0 197
+https://getslash.tuvanweb.com/backend/menu/edit/6
+0 3
+http://103.124.92.88:80/
+0 3
+https://getslash.tuvanweb.com/slash/slash/uploads/files/2022-07-04-62c278e8664d9.pdf
+0 30
+https://getslash.tuvanweb.com/backend/posttype/9/edit
+0 6
+https://l.facebook.com/
+0 1
+https://getslash.tuvanweb.com/faq
+0 387
+https://www.youtube.com/
+0 1
+https://getslash.tuvanweb.com/public/backend/plugins/ckeditor/skins/moono-lisa/editor.css
+0 5
+https://getslash.tuvanweb.com/backend/recruitments
+0 5
+https://getslash.tuvanweb.com/backend/posttype/10/edit
+0 16
+https://getslash.tuvanweb.com/backend/posts
+0 16
+https://getslash.tuvanweb.com/
+0 11773
+https://getslash.tuvanweb.com/delta-vacations
+0 3
+https://getslash.tuvanweb.com/backend/posttype/8/edit
+0 5
+https://getslash.tuvanweb.com/backend/users
+0 6
+https://getslash.tuvanweb.com/backend/pages
+0 73
+https://getslash.tuvanweb.com/shop
+0 2691
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/D140A8
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 165
+Mozilla/5.0 (iPad; CPU OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/60
+0 28
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+0 136
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Safari/605.1.15
+0 71
+Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/16B92 Zalo iOS/448 Zal
+0 131
+ZaloPC-darwin-23v470
+0 8
+ZaloPC-win32-24v470
+0 7
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36 _zbot
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 2
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Mobile Safari/
+0 923
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 340
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 5
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 63
+Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/60
+0 4864
+ZaloPC-darwin-23v471
+0 2
+Mozilla/5.0 (iPad; CPU OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/87.0.4280.77 Mobile/15E148 Safar
+0 414
+Apache-HttpClient/5.1.3 (Java/11.0.14.1)
+0 7
+WhatsApp/2.2220.8 N
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Sa
+0 131
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php) _zbot
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 
+0 27
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 LightSpeed [FBA
+0 66
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+0 478
+Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 QIHU 360SE
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/2EA0F0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:47.0) Gecko/20100101 Firefox/47.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 5
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Mobile Safari/
+0 1405
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 57
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_4_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.33 Safari/537.36
+0 194
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 3834
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.33 Safari/537.36
+0 67
+WhatsApp/2.22.8.75 i
+0 2
+ZaloPC-darwin-23v468
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.33 Safari/537.36
+0 288
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 27
+TelegramBot (like TwitterBot)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Mobile/15E148 Sa
+0 67
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 _zbot
+0 22
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 15_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/103.0.5060.63 Mobile/15
+0 255
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 18837
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36
+0 3984
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36 Edg/96.0.1
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+0 2054
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

@@ -1,0 +1,183 @@
+body {
+  font-family: $font-default;
+  color: $c-dark;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.btn {
+  transition: $transitions-default
+}
+
+.btn-downapp {
+  @include flex-center;
+  background-color: $c-yellow;
+  color: $c-dark-01;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 999px;
+  padding: 7px 25px;
+
+  svg {
+    margin-right: 13px;
+  }
+
+  &:hover,
+  &:focus {
+    opacity: .6;
+  }
+}
+
+.btn-01 {
+  background-color: $c-yellow;
+  border-radius: 999px;
+  font-size: 20px;
+  line-height: 28px;
+  color: $c-dark-01;
+  font-weight: 500;
+  padding: 16px 32px;
+
+  &:hover,
+  &:focus {
+    opacity: .6;
+  }
+}
+
+.btn-02 {
+  @include no-spacing;
+
+  &:hover,
+  &:focus {
+    opacity: .6;
+  }
+}
+
+.btn-03 {
+  font-size: 16px;
+  padding: 8px 24px;
+  border: 1.5px solid $c-dark-01;
+  color: $c-dark-01;
+  border-radius: 999px;
+  @media (max-width: 767px) {
+    font-size: 14px;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: $c-dark-01;
+    color: $c-yellow;
+  }
+}
+
+.heading {
+  color: $c-dark-01;
+
+  p {
+    @include no-spacing;
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    @media (max-width: 767px) {
+      font-size: 12px;
+    }
+  }
+
+  h2 {
+    @include no-spacing;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: 700;
+    @media (max-width: 767px) {
+      font-size: 20px;
+      line-height: 1;
+    }
+  }
+}
+
+.slick-dots {
+  @include no-spacing;
+  display: flex;
+  margin-left: -8px;
+  margin-right: -8px;
+  li {
+    list-style: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    @media (max-width: 1023px) {
+      padding: 0;
+      width: 12px;
+      height: 12px;
+      background: #EDEEF3;
+      border-radius: 100%;
+      margin: 0 4px;
+      &.slick-active {
+        background: #00E889;
+      }
+    }
+    @media (max-width: 767px) {
+      padding: 0;
+      width: 8px;
+      height: 8px;
+      background: #EDEEF3;
+      border-radius: 100%;
+      margin: 0 4px;
+      &.slick-active {
+        background: #00E889;
+      }
+    }
+
+    button {
+      display: block;
+      border: 0;
+      cursor: pointer;
+      background-color: $c-gray-300;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      transition: $transitions-default;
+      font-size: 0;
+      @media (max-width: 1023px) {
+        display: none;
+      }
+    }
+  
+    &.slick-active {
+      button {
+        background-color: $c-yellow;
+      }
+    }
+  }
+}
+
+.slick-arrow {
+  @include no-spacing;
+  position: absolute;
+  z-index: 2;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+  font-size: 0;
+  background-size: 100% 100%;
+
+  &.slick-prev {
+    background-image: url(../images/arrow-left.png);
+
+    &:hover {
+      background-image: url(../images/arrow-right.png);
+      transform: scale(-1);
+    }
+  }
+  &.slick-next {
+    background-image: url(../images/arrow-left.png);
+    transform: scale(-1);
+
+    &:hover {
+      background-image: url(../images/arrow-right.png);
+      transform: scale(1);
+    }
+  }
+}
+

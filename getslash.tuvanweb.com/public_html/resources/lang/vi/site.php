@@ -1,0 +1,26 @@
+<?php
+return [
+    'about'                => 'Giới thiệu',
+    'job_des'              => 'Mô tả',
+    'related_posts'        => 'Bài viết liên quan',
+    'overview'             => 'Tổng quan',
+    'income'               => 'Mức lương',
+    'quantity'             => 'Số lượng',
+    'office_address'       => 'Địa chỉ văn phòng',
+    'deadline'             => 'Ngày hết hạn',
+    'view_more'            => 'Chi tiết',
+    'contact'              => 'Liên hệ',
+    'get_more_detail'      => 'Chi tiết',
+    'phone'                => 'Điện thoại',
+    'address'              => 'Địa chỉ',
+    'name'                 => 'Họ tên',
+    'form_contact_title_1' => 'Cảm ơn bạn đã liên hệ !',
+    'form_contact_title_2' => 'Chúng tôi đã nhận được yêu cầu của bạn và sẽ liên hệ lại với bạn trong thời gian sớm nhất.',
+    'categories'           => 'Danh mục',
+    'explore_now'          => 'EXPLORE NOW',
+    'partners'             => 'Đối tác của chúng tôi',
+    'proud_cooperations'   => 'Hợp tác đáng tự hào',
+    'trending_styles'      => 'Xu hướng thiết kế',
+    'for_your_space'       => 'Cho không gian của bạn',
+    'get_in_touch'         => 'Liên hệ'
+];
