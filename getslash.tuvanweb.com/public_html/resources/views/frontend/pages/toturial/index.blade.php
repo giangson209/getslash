@@ -175,7 +175,7 @@
                                 </a> -->
                                 @endif
                             </div> 
-                        </div>
+                        </div> 
                     </div>
                     <!-- <div class="col-lg-8">
                         <div class="video-bigs">
@@ -255,6 +255,31 @@
     </div>
 </main>
 
+<script>
+    $(document).ready(function(){
+      $('#sendUrl').click(function(){
+        function getId(url) {
+        var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
+        var match = url.match(regExp);
 
+        if (match && match[2].length == 11) {
+            return match[2];
+        } else {
+            return 'error';
+        }
+      }
+        var videoId = $('#url').val();
+        var myId = getId(videoId);
+
+        $('#videoSrc').html(myId);
+        $('#myVideo').html('<iframe src="https://www.youtube.com/embed/' + myId + '?rel=0&enablejsapi=1&autoplay=1=1&mute=1"></iframe>'); 
+      })
+
+        setTimeout(function(){
+          $('#sendUrl').click();
+        }, 10);
+
+    }); 
+</script>
     
 @endsection

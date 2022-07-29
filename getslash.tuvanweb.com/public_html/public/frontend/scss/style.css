@@ -1331,6 +1331,11 @@ body a:hover {
   margin: 0 -28px;
   padding-bottom: 96px;
 }
+@media (min-width: 767px) {
+  .slide-new-hot {
+    padding-left: calc((100% - 1300px) / 2);
+  }
+}
 @media (min-width: 1024px) {
   .slide-new-hot {
     padding-left: calc((100% - 960px) / 2);
@@ -1339,11 +1344,6 @@ body a:hover {
 @media (min-width: 1200px) {
   .slide-new-hot {
     padding-left: calc((100% - 1140px) / 2);
-  }
-}
-@media (min-width: 767px) {
-  .slide-new-hot {
-    padding-left: calc((100% - 1300px) / 2);
   }
 }
 @media (max-width: 1023px) {
@@ -1780,7 +1780,6 @@ body a:hover {
   border-radius: 16px;
   box-shadow: 0 0 0 6px #00e889, 6px 6px 0 6px #00e889;
   overflow: hidden;
-  height: 100%;
 }
 @media (max-width: 767px) {
   .video-bigs {

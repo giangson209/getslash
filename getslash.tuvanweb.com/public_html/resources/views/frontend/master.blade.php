@@ -31,6 +31,7 @@
  		var base_url = "{{ __BASE_URL__ }}";
  		var base = "{{ url('/') }}";
  	</script>
+ 	<script src="{{ __BASE_URL__ }}/vendor/jquery-3.3.1.min.js"></script>
  	
  	@if (!empty($site_info->google_analytics))
  		{!! $site_info->google_analytics !!}
@@ -45,8 +46,6 @@
 		@yield('main')
 
 		@include('frontend.teamplate.footer')
-
-		<script src="{{ __BASE_URL__ }}/vendor/jquery-3.3.1.min.js"></script>
 		<script src="{{ __BASE_URL__ }}/vendor/bootstrap-5.1.0-dist/popper.min.js"></script>
 		<script src="{{ __BASE_URL__ }}/vendor/fancyapps/jquery.fancybox.min.js"></script>
 		<script src="{{ __BASE_URL__ }}/vendor/slick/slick.min.js"></script>
